@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rake', '0.8.7'
-gem 'rails'
+gem 'rails', '3.0.9'
 gem 'dynamic_form'
 gem 'acts_as_tree'
 gem 'paperclip'
